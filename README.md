@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently studying at Ho Chi Minh City University of Transport.<br>Graduated from Full Stack programming training course at FPT Aptech.<br>I aim to develop my skills to become a proficient backend developer capable of efficiently handling tasks.<br>🏆 Top 10 Techwiz 5
+I’m currently studying at Ho Chi Minh City University of Transport.<br>Graduated from Full Stack programming training course at FPT Aptech.<br>I aim to develop my skills to become a proficient backend developer capable of efficiently handling tasks.<br>🏆 1st Runner Up TechWiz 2024
 
 
 
